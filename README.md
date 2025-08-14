@@ -50,4 +50,4 @@ Evaluation using classification report, confusion matrix, and ROC curve
 Credits
 
 This project was created as a learning exercise following Python tutorials.
-Most code was adapted from tutorials, with a few tweaks and modifications by [Your Name].
+Most code was adapted from tutorials, with a few tweaks and modifications by SickWater.
